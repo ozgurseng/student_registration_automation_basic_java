@@ -44,7 +44,7 @@ public class BagliListe {
 
             System.out.println("Öğrenci Bilgileri:");
             System.out.println("Öğrenci No: " + temp.ogrenciNumarasi);
-            System.out.println("Adı Soyadı: " + temp.ogrenciVizeNotu);
+            System.out.println("Adı Soyadı: " + temp.ogrenciAdiSoyadi);
             System.out.println("Vize Notu: " + temp.ogrenciVizeNotu);
             System.out.println("Final Notu: " + temp.ogrenciFinalNotu);
             System.out.println("Ders Durumu: " + temp.ogrenciDersDurum);
